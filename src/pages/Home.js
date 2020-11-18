@@ -17,6 +17,8 @@ export default class Home extends Component {
     return (
       <div>
         woshi Home redirect
+
+        我是修改过后的
       </div>
     )
   }
